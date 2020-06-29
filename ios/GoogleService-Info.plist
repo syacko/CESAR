@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>431970760733-qmgmkieshit1tqamgidb8652n1gp591v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.431970760733-qmgmkieshit1tqamgidb8652n1gp591v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRzCAXS9uGlWZxzlRLzdkbzuE6pQL6gxU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>431970760733</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.cal-esar.cesar</string>
+	<key>PROJECT_ID</key>
+	<string>cesar-94698</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cesar-94698.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:431970760733:ios:ad32264c655af310afaef4</string>
+	<key>DATABASE_URL</key>
+	<string>https://cesar-94698.firebaseio.com</string>
+</dict>
+</plist>
